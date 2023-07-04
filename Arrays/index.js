@@ -28,6 +28,6 @@ const alunos = ['Lucas','Thuany','Helena', 'José'];
 // alunos[0] = 'Luiza' - ALTERA
 // alunos[3] = 'Eduardo' - ADICIONA
 
-// console.log(alunos);
-// console.log(alunos[0]);
-// console.log(alunos[1]);
+console.log(alunos);
+console.log(alunos[0]);
+console.log(alunos[1]);
